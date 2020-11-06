@@ -1,1 +1,3 @@
 #prod
+prod:
+  name: prod
